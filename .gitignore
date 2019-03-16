@@ -1,0 +1,22 @@
+### Java
+src/test/
+*.class
+
+# Log file
+*.log
+
+### Maven
+target/
+
+### JetBrains
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# Cursive Clojure plugin
+.idea/
+*.iml
+
